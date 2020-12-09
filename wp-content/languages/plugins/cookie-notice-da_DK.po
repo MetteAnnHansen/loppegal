@@ -1,0 +1,206 @@
+# Translation of Plugins - Cookie Notice for GDPR &amp; CCPA - Stable (latest release) in Danish
+# This file is distributed under the same license as the Plugins - Cookie Notice for GDPR &amp; CCPA - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-03-20 13:55:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: da_DK\n"
+"Project-Id-Version: Plugins - Cookie Notice for GDPR &amp; CCPA - Stable (latest release)\n"
+
+#: cookie-notice.php:695
+msgid "Script blocking"
+msgstr "Script blokering"
+
+#: cookie-notice.php:214
+msgid "Custom link"
+msgstr "Tilpasset link"
+
+#: cookie-notice.php:213
+msgid "Page link"
+msgstr "Sidelink"
+
+#: cookie-notice.php:228
+msgid "Text color"
+msgstr "Tekstfarve"
+
+#: cookie-notice.php:229
+msgid "Bar color"
+msgstr "Bjælkefarve"
+
+#: cookie-notice.php:236
+msgid "1 day"
+msgstr "1 dag"
+
+#: cookie-notice.php:237
+msgid "1 week"
+msgstr "1 uge"
+
+#: cookie-notice.php:238
+msgid "1 month"
+msgstr "1 måned"
+
+#: cookie-notice.php:239
+msgid "3 months"
+msgstr "3 måneder"
+
+#: cookie-notice.php:240
+msgid "6 months"
+msgstr "6 måneder"
+
+#: cookie-notice.php:241
+msgid "1 year"
+msgstr "1 år"
+
+#: cookie-notice.php:242
+msgid "infinity"
+msgstr "uendeligt"
+
+#: cookie-notice.php:248
+msgid "Fade"
+msgstr "Fade"
+
+#: cookie-notice.php:249
+msgid "Slide"
+msgstr "Glid"
+
+#: cookie-notice.php:258
+msgid "We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it."
+msgstr "Vi anvender cookies for at sikre at vi giver dig den bedst mulige oplevelse af vores website. Hvis du fortsætter med at bruge dette site vil vi antage at du er indforstået med det."
+
+#: cookie-notice.php:259
+msgid "Ok"
+msgstr "Ok"
+
+#. Plugin Name of the plugin
+#: cookie-notice.php:638 cookie-notice.php:649 cookie-notice.php:652
+#: cookie-notice.php:1355
+msgid "Cookie Notice"
+msgstr "Cookie-meddelelse"
+
+#: cookie-notice.php:654
+msgid "Need support?"
+msgstr "Har du brug for hjælp?"
+
+#: cookie-notice.php:657
+msgid "Do you like this plugin?"
+msgstr "Kan du lide denne plugin?"
+
+#: cookie-notice.php:689
+msgid "Configuration"
+msgstr "Konfiguration"
+
+#: cookie-notice.php:224 cookie-notice.php:690
+msgid "Message"
+msgstr "Meddelelse"
+
+#: cookie-notice.php:691
+msgid "Button text"
+msgstr "Knaptekst"
+
+#: cookie-notice.php:702
+msgid "Deactivation"
+msgstr "Deaktivering"
+
+#: cookie-notice.php:711
+msgid "Design"
+msgstr "Design"
+
+#: cookie-notice.php:712
+msgid "Position"
+msgstr "Position"
+
+#: cookie-notice.php:713
+msgid "Animation"
+msgstr "Animation"
+
+#: cookie-notice.php:714
+msgid "Button style"
+msgstr "Knapstil"
+
+#: cookie-notice.php:716
+msgid "Colors"
+msgstr "Farver"
+
+#: cookie-notice.php:1109
+msgid "Enable if you want all plugin data to be deleted on deactivation."
+msgstr "Aktivér hvis du ønsker at alle plugin-data slettes ved deaktivering."
+
+#: cookie-notice.php:791
+msgid "Enter the cookie notice message."
+msgstr "Angiv cookie-meddelelsen."
+
+#: cookie-notice.php:925
+msgid "-- select page --"
+msgstr "-- vælg side --"
+
+#: cookie-notice.php:1441
+msgid "Support"
+msgstr "Support"
+
+#: cookie-notice.php:1458
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: cookie-notice.php:260
+msgid "No"
+msgstr "Nej"
+
+#: cookie-notice.php:253
+msgid "Header"
+msgstr "Overskrift"
+
+#: cookie-notice.php:254
+msgid "Footer"
+msgstr "Sidefod"
+
+#: cookie-notice.php:673
+msgid "Reset to defaults"
+msgstr "Nulstil til standardindstillinger"
+
+#: cookie-notice.php:697
+msgid "On scroll"
+msgstr "Når der rulles"
+
+#: cookie-notice.php:701
+msgid "Script placement"
+msgstr "Placering af script"
+
+#: cookie-notice.php:1033
+msgid "Select where all the plugin scripts should be placed."
+msgstr "Vælg hvor alle plugin scripts skal placeres"
+
+#: cookie-notice.php:1301
+msgid "Settings restored to defaults."
+msgstr "Indstillinger nulstillet"
+
+#: cookie-notice.php:1532
+msgid "Are you sure you want to reset these settings to defaults?"
+msgstr "Er du sikker på, at du ønsker at nulstille disse indstillinger?"
+
+#. Plugin URI of the plugin
+msgid "http://www.dfactory.eu/plugins/cookie-notice/"
+msgstr "http://www.dfactory.eu/plugins/cookie-notice/"
+
+#. Author of the plugin
+msgid "dFactory"
+msgstr "dFactory"
+
+#. Author URI of the plugin
+msgid "http://www.dfactory.eu/"
+msgstr "http://www.dfactory.eu/"
+
+#: cookie-notice.php:197
+msgid "Top"
+msgstr "Top"
+
+#: cookie-notice.php:198
+msgid "Bottom"
+msgstr "Bund"
+
+#: cookie-notice.php:202 cookie-notice.php:247
+msgid "None"
+msgstr "Ingen"

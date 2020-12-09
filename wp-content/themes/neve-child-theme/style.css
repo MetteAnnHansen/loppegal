@@ -1,0 +1,22 @@
+/*
+ Theme Name:   Neve Child Theme
+ Theme URI:    https://metteannhansen.dk/hovedopgave/
+ Description:  neve child theme based on neve mother theme
+ Author:       Mette Ann
+ Author URI:   https://metteannhansen.dk/hovedopgave/
+ Template:     neve
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  neve child theme
+*/
+
+.cn-button.wp-default {
+    color: #000;
+    background: #fff;
+}
+.cn-button.wp-default {
+    color: #000;
+    background: #fff;
+}
